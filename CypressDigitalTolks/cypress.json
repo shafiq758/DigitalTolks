@@ -1,0 +1,11 @@
+{
+
+
+  "watchForFileChanges": false,
+  "defaultCommandTimeout": 9000,
+
+  
+    "viewportWidth": 1000,
+    "viewportHeight": 780
+  
+}
